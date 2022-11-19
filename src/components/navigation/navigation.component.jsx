@@ -11,13 +11,13 @@ const Navigation = () => {
             </Link>
             <div className = "nav-links">
                 <Link className = "first" to = "/first">
-                    FIRST
+                    First
                 </Link>
                 <Link className = "second" to = "/second">
-                    SECOND
+                    Second
                 </Link>
                 <Link className = "third" to = "/third">
-                    THIRD
+                    Third
                 </Link>
             </div>
         </div>
